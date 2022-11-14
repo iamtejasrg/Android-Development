@@ -12,4 +12,3 @@
 ## Details
 * All tested functionality was done on Google Pixel 5 128GB / 6GB w/ Amazon Ads (Ads Removed)
 * Bootanimations created By Tejas And Sona
-* Gif Uploads were created in My Telegram Channel
