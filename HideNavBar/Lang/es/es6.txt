@@ -1,0 +1,3 @@
+		De que lado deshabilitar el gesto de retroceso?
+
+		Vol + = Solo izquierda (para menus laterales), Vol - = Izquierda y derecha

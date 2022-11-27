@@ -1,0 +1,3 @@
+		Ocultar la "pildora" de navegacion y mantener la altura / el espacio del teclado?
+
+		Vol + = Si, Vol - = No (predeterminado)

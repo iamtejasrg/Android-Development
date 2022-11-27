@@ -1,0 +1,6 @@
+id=CloudflareDNS4Magisk
+name=CloudflareDNS4Magisk
+version=v2.7
+versionCode=27
+author=Rom
+description=Using the new Cloudflare DNS system-lessy! As simple as that.

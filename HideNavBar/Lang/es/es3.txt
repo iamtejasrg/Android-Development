@@ -1,0 +1,3 @@
+		Reducir la altura de la barra del teclado?
+
+		Vol + = Si, Vol - = No (predeterminado)
