@@ -1,0 +1,7 @@
+id=fpboost
+name=Fingerprint Scanner Booster
+version=v1
+versionCode=1
+author=veez21
+description=Boost Fingerprint Scanner's responsiveness by prioritizing its process.
+template=1400
